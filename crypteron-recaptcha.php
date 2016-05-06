@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Crypteron Recaptcha
-Plugin URI: https://www.crypteron.com
+Plugin URI: https://github.com/crypteron/crypteron-recaptcha-wordpress
 Description: Requires Google Recaptcha 2.0 for login
 Author: Yaron Guez
-Author URI: http://yaronguez.com
+Author URI: http://crypteron.com
 Version: 1.0.1
 Tested up to: 4.5
 License: GNU General Public License v3.0
