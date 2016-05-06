@@ -6,6 +6,8 @@ Description: Requires Google Recaptcha 2.0 for login
 Author: Yaron Guez
 Author URI: http://yaronguez.com
 License: GPL2
+GitHub Plugin URI: https://github.com/crypteron/crypteron-recaptcha-wordpress
+GitHub Branch: master
 */
 
 
