@@ -1,0 +1,9 @@
+#loginform #wp-submit,
+#lostpasswordform #wp-submit
+{
+    display: none;
+}
+
+#login {
+    width: 350px;
+}
