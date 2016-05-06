@@ -5,7 +5,10 @@ Plugin URI: https://www.crypteron.com
 Description: Requires Google Recaptcha 2.0 for login
 Author: Yaron Guez
 Author URI: http://yaronguez.com
-License: GPL2
+Version: 1.0.1
+Tested up to: 4.5
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 GitHub Plugin URI: https://github.com/crypteron/crypteron-recaptcha-wordpress
 GitHub Branch: master
 */
